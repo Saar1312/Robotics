@@ -1,0 +1,2 @@
+myrobot_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/samuel/ROS/catkin/devel -DCMAKE_INSTALL_PREFIX=/home/samuel/ROS/catkin/install -G Unix Makefiles

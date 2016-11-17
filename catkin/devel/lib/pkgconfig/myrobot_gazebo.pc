@@ -1,0 +1,8 @@
+prefix=/home/samuel/ROS/catkin/devel
+
+Name: myrobot_gazebo
+Description: Description of myrobot_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/samuel/ROS/catkin/devel/lib 
+Requires: 
