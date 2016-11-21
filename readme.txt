@@ -43,4 +43,4 @@ Instructions:
 
 3- To move the robot from its initial position use gazebo simulator
 
-Note: With actual walls and position of robot radar can make it crash when surrounding a corner.
+Note: With current walls and position of robot radar can make it crash when surrounding a corner.
