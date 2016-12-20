@@ -33,8 +33,8 @@ Program information:
 Instructions:
 
 0- Run 
-	$ source /source catkin/devel/setup.bash
-	$ source /source /opt/ros/kinetic/setup.bash 
+	$ source catkin/devel/setup.bash
+	$ source /opt/ros/kinetic/setup.bash 
 
 1- Open 3 terminals and run each command in a different term:
 	$ roslaunch myrobot_gazebo omap.launch # or umap.launch
